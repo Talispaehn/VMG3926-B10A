@@ -5,7 +5,7 @@ Unlock
 
 Mac Address of LAN port // PASSWORD FOR ATEN
 
-  ...0 or ...8 // 10F0A563
+  ...0 OR ...8 // 10F0A563
   
   ...1 OR ...9 // 887852B1
   
