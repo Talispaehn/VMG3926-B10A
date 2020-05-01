@@ -1,5 +1,5 @@
 # VMG3926-B10A
-reference repo for router configuration
+reference repo for router configuration.
 
 Available commands:
 ATMB                Use for multiboot.
