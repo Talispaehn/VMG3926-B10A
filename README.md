@@ -3,46 +3,82 @@ reference repo for router configuration.
 
 Available commands:
 ATMB                Use for multiboot.
+
 ATHW                Other misc commands
+
 ATDC                Disable Check Model Mechanism.
+
 ATBB                Mark/unmark the Block X to be bad block.
+
 ATCMP               Compare the contents at start address X and Y with L
                     ength Z
+                    
 ATLD                Download data with file name X to memory address Y f
                     rom PC via TFTP
+                    
 ATRB                Load the CFERAM to run by TFTP or UART!
+
 ATDS                Dump data of spare area in block X`s page Y
+
 ATRF                Read/Dump flash data
+
 ATER                Erase NAND flash from block X to block Y
+
 ATWF                Write data from RAM to flash
+
 ATRT                Test memory.
+
 ATCR                reset to default, erase Data partition
+
 ATCD                Erase ROM-D partition
+
 ATCM                Erase ROMFILE partition
+
 ATWZ                write (a)MAC addr, (b)Country code, (c)EngDbgFlag, (
                     d)FeatureBit, (e)MAC Number to NVRAM
+                    
 ATCO                set Country Code to NVRAM.
+
 ATSN                set Series Number to NVRAM.
+
 ATSH                dump manufacturer related data from NVRAM
+
 ATGO                Run program from flash image or from host depend on
                     [f/h] flag.
+                    
 ATSE                show the seed of password generator
+
 ATEN                set BootExtension Debug Flag
+
 ATBT                block0 write enable
+
 ATPH                Set/Get PHY`s registers.
+
 ATWW                Set memory or registers.
+
 ATDU                Dump memory or registers.
+
 ATBL                Print boot line and board parameter info
+
 ATIP                Change booline parameters
+
 ATAF                Change board AFE ID
+
 ATBP                Change board parameters
+
 ATSR                System reboot
+
 ATUM                Upload ROMFILE to flash from TFTP
+
 ATUD                Upload ROM-D to flash from TFTP
+
 ATUB                Upload bootloader to flash from TFTP
+
 ATUR                Upload router firmware to flash from TFTP
+
 ATUW                Write the whole image start from beginning of the fl
                     ash from TFTP
+                    
 ATHE                print help
 
 For more information about a command, enter 'athe command-name'
