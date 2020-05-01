@@ -1,6 +1,19 @@
 # VMG3926-B10A
 reference repo for router configuration.
 
+Unlock
+Mac Address of LAN port // PASSWORD FOR ATEN
+...0 or ...8 // 10F0A563
+...1 OR ...9 // 887852B1
+...2 OR ...A // C43C2958
+...3 OR ...B // 621E14AC
+...4 OR ...C // 310F0A56
+...5 OR ...D // 1887852B
+...6 OR ...E // 8C43C295
+...7 OR ...F // C621E14A
+
+(e.g. > ATEN 1, 1887852B)
+
 Available commands:
 ATMB                Use for multiboot.
 
